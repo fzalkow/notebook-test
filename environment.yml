@@ -15,3 +15,4 @@ dependencies:
   - pip:
     - nbstripout==0.3.*
     - pysoundfile==0.9.*
+    - libsndfile
